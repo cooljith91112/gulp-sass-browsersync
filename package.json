@@ -1,0 +1,16 @@
+{
+  "name": "sass-css-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.sass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Indrajith K L <yojith2008@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
